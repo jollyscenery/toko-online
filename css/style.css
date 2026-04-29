@@ -8,3 +8,21 @@ header {
   color: white;
   padding: 16px;
 }
+
+nav a {
+  color: white;
+  margin-right: 12px;
+  text-decoration: none;
+}
+nav a:hover {
+  text-decoration: underline;
+}
+
+.product-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 12px;
+  display: inline-block;
+  width: 200px;
+}
